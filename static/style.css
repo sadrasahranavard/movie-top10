@@ -545,3 +545,25 @@ body {
 .error-page a:hover {
     text-decoration: underline;
 }
+
+.nav-links a.special {
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    padding: 8px 16px;
+    border-radius: var(--radius);
+    font-weight: 600;
+}
+
+.nav-links a.special:hover {
+    background: var(--accent);
+    color: #000000;
+    border-bottom-color: var(--accent);
+}
+
+.film-poster {
+    width: 100px;
+    height: 150px;
+    border-radius: 6px;
+    object-fit: cover;
+    flex-shrink: 0;
+}

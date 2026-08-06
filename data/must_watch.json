@@ -4,391 +4,447 @@
         "year": 1915,
         "director": "D.W. Griffith",
         "description": "Technically revolutionary and morally repugnant in equal measure — this film invented the close-up, the epic battle sequence, and narrative cinema as we know it. You watch it not to enjoy it, but to understand how the moving image learned to manipulate audiences so completely. No film better illustrates cinema's terrifying power to rewrite history.",
-        "why": "It teaches you that cinema has always been a weapon as much as an art form, and that technical brilliance without moral clarity is a dangerous thing."
+        "why": "It teaches you that cinema has always been a weapon as much as an art form, and that technical brilliance without moral clarity is a dangerous thing.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Birth_of_a_Nation_theatrical_poster.jpg/250px-Birth_of_a_Nation_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Intolerance",
         "year": 1916,
         "director": "D.W. Griffith",
         "description": "Griffith's apology for his own racism became the most ambitious film ever made — four stories across millennia, intercut with breathtaking precision. The Babylonian sets were so enormous they stood on Hollywood Boulevard for years, monuments to a madness that nearly bankrupted everyone involved.",
-        "why": "It's a film that argues hatred is the oldest story we tell, and the most boring — a lesson that remains painfully relevant."
+        "why": "It's a film that argues hatred is the oldest story we tell, and the most boring — a lesson that remains painfully relevant.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Intolerance_%28film%29.jpg/250px-Intolerance_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "The Cabinet of Dr. Caligari",
         "year": 1920,
         "director": "Robert Wiene",
         "description": "The twisted, painted shadows of this film didn't just create a style — they externalized the madness of a world recovering from war. Every crooked staircase and jagged window teaches you that reality is a fragile agreement we make with our own minds.",
-        "why": "Horror cinema has been chasing this nightmare for over a century and still hasn't caught up."
+        "why": "Horror cinema has been chasing this nightmare for over a century and still hasn't caught up.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Das_Cabinet_des_Dr._Caligari.JPG/250px-Das_Cabinet_des_Dr._Caligari.JPG"
     },
     {
         "title": "Battleship Potemkin",
         "year": 1925,
         "director": "Sergei Eisenstein",
         "description": "The Odessa Steps sequence has been quoted, parodied, and studied so many times you might think you've already seen it. You haven't — not really — until you feel the rhythm of Eisenstein's editing in your bones, the way a baby carriage bouncing down stone steps becomes pure visual music.",
-        "why": "This is propaganda elevated to poetry, and it still works."
+        "why": "This is propaganda elevated to poetry, and it still works.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vintage_Potemkin.jpg/250px-Vintage_Potemkin.jpg"
     },
     {
         "title": "The Gold Rush",
         "year": 1925,
         "director": "Charlie Chaplin",
         "description": "Chaplin's favorite of his own films contains the most elegant comic sequence ever filmed: a starving prospector boiling and eating his own shoe, twirling the laces like spaghetti. The dance of the bread rolls — two forks, two dinner rolls, and a pair of eyes — is physical comedy so perfect it feels like a magic trick.",
-        "why": "Beneath every laugh is the cold reality of poverty, and that's why it endures."
+        "why": "Beneath every laugh is the cold reality of poverty, and that's why it endures.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gold_rush_poster.jpg/250px-Gold_rush_poster.jpg"
     },
     {
         "title": "The General",
         "year": 1926,
         "director": "Buster Keaton",
         "description": "Buster Keaton risked his actual life for laughs, and you can see it in every frame of this Civil War train chase — no stunt doubles, no safety nets, just a man and his locomotive. The physical precision is so perfect it feels like mathematics transformed into comedy by some minor god.",
-        "why": "When a real bridge collapses under a real train, you're watching the most expensive single shot of the silent era, and Keaton didn't even tell his crew when it would happen."
+        "why": "When a real bridge collapses under a real train, you're watching the most expensive single shot of the silent era, and Keaton didn't even tell his crew when it would happen.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_General_%281926%29_-_Movie_Poster_2.png/250px-The_General_%281926%29_-_Movie_Poster_2.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Metropolis",
         "year": 1927,
         "director": "Fritz Lang",
         "description": "Every dystopian city you've ever seen in film owes its skyline to Fritz Lang's feverish imagination — the robot Maria, the flooded worker city, the Tower of Babel allegory. Hitler loved this film and tried to hire Lang; instead, Lang fled Germany and his wife joined the resistance.",
-        "why": "The image of the machine transforming into a devouring god is still more terrifying than any CGI monster."
+        "why": "The image of the machine transforming into a devouring god is still more terrifying than any CGI monster.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Metropolis_%28German_three-sheet_poster%29.jpg/250px-Metropolis_%28German_three-sheet_poster%29.jpg"
     },
     {
         "title": "Sunrise: A Song of Two Humans",
         "year": 1927,
         "director": "F.W. Murnau",
         "description": "Murnau came to Hollywood and made something so emotionally pure it feels like the first love story ever told, despite being about a farmer tempted to murder his wife. The camera floats through marshes, city streets, and dance halls with a grace that still seems technologically impossible for 1927.",
-        "why": "It won the very first Oscar for Unique and Artistic Production — a category that never existed again, because no other film deserved it."
+        "why": "It won the very first Oscar for Unique and Artistic Production — a category that never existed again, because no other film deserved it.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sunrise_-_A_Song_of_Two_Humans.jpg/250px-Sunrise_-_A_Song_of_Two_Humans.jpg"
     },
     {
         "title": "M",
         "year": 1931,
         "director": "Fritz Lang",
         "description": "Peter Lorre's child murderer whistles Grieg and pleads that he can't control the thing inside him — and you almost pity him, which is the film's disturbing genius. Fritz Lang's first sound film uses silence more terrifyingly than most films use music.",
-        "why": "The kangaroo court finale, where criminals judge a criminal, asks a question that still haunts us: who has the right to decide what happens to a monster?"
+        "why": "The kangaroo court finale, where criminals judge a criminal, asks a question that still haunts us: who has the right to decide what happens to a monster?",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/ab/M_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "City Lights",
         "year": 1931,
         "director": "Charlie Chaplin",
         "description": "Chaplin refused to make a talkie when the world was demanding sound, and this silent masterpiece about a tramp who falls for a blind flower girl proved him right. The final close-up — the Tramp holding a flower, realizing she can now see him, his face a mixture of hope and terror — is perhaps the most perfect ending in cinema.",
-        "why": "He gambled his entire career on your tears in that moment, and he won."
+        "why": "He gambled his entire career on your tears in that moment, and he won.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/City_Lights_%281931_theatrical_poster_-_retouched%29.jpg/250px-City_Lights_%281931_theatrical_poster_-_retouched%29.jpg"
     },
     {
         "title": "Grand Illusion",
         "year": 1937,
         "director": "Jean Renoir",
         "description": "Jean Renoir made an anti-war film where enemies share meals and show each other kindness across class lines, because the real division isn't nationality — it's between those who have and those who don't. The German officers aren't monsters; they're aristocrats watching their world die, and they know it.",
-        "why": "When Goebbels banned this film, he called it Cinematic Public Enemy Number One — there is no higher compliment."
+        "why": "When Goebbels banned this film, he called it Cinematic Public Enemy Number One — there is no higher compliment.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/GrandeIllusion.jpg/250px-GrandeIllusion.jpg"
     },
     {
         "title": "The Rules of the Game",
         "year": 1939,
         "director": "Jean Renoir",
         "description": "Renoir skewered the French upper class so mercilessly that audiences rioted at the premiere and the film was banned as demoralizing. It's a farce where everyone is sleeping with everyone, and the servants' romantic drama matters more than the masters' petty cruelties.",
-        "why": "The original negative was destroyed in a bombing during WWII; we're lucky this survived to teach us how to laugh at the ruling class."
+        "why": "The original negative was destroyed in a bombing during WWII; we're lucky this survived to teach us how to laugh at the ruling class.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/La_regle_du_jeu.jpg/250px-La_regle_du_jeu.jpg"
     },
     {
         "title": "Citizen Kane",
         "year": 1941,
         "director": "Orson Welles",
         "description": "A 25-year-old first-time director made a film that critics still call the greatest of all time, and the audacity of that achievement still stings. Everything you take for granted — deep focus photography, non-linear storytelling, showing ceilings on sets — was revolutionary here.",
-        "why": "The tragedy isn't that Kane lost his empire; it's that he lost the simple joy of a childhood sled called Rosebud, and spent his whole life trying to fill that hole."
+        "why": "The tragedy isn't that Kane lost his empire; it's that he lost the simple joy of a childhood sled called Rosebud, and spent his whole life trying to fill that hole.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/250px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Casablanca",
         "year": 1942,
         "director": "Michael Curtiz",
         "description": "Hollywood's most quotable film was made in chaos, with pages being written the night before shooting and nobody knowing how it would end. Bogart's Rick is the cynic we all want to be, until he proves himself the idealist we all hope we are, giving up the woman he loves so she can fight the Nazis.",
-        "why": "We'll always have Paris isn't just a line — it's a philosophy of loss and gratitude wrapped in four words."
+        "why": "We'll always have Paris isn't just a line — it's a philosophy of loss and gratitude wrapped in four words.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CasablancaPoster-Gold.jpg/250px-CasablancaPoster-Gold.jpg"
     },
     {
         "title": "Rome, Open City",
         "year": 1945,
         "director": "Roberto Rossellini",
         "description": "Rossellini shot this in the actual rubble of Rome, with film stock scavenged from different sources, while the war still raged a few miles away. Anna Magnani's death — shot while chasing a truck taking her husband — is one of cinema's most visceral moments of sudden, meaningless violence.",
-        "why": "This film taught the world that you don't need studios or stars to tell the truth; you just need courage."
+        "why": "This film taught the world that you don't need studios or stars to tell the truth; you just need courage.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Open_City_DVD.jpg/250px-Open_City_DVD.jpg"
     },
     {
         "title": "It's a Wonderful Life",
         "year": 1946,
         "director": "Frank Capra",
         "description": "This film was a box office failure that found its audience decades later through TV reruns and collective emotional need. George Bailey's desperation — staring at the bridge, wondering if he's worth more dead than alive — feels more relevant with each passing year of economic anxiety.",
-        "why": "When his brother toasts him as the richest man in town, you'll cry not from sadness but from recognition of every small, unglamorous life that secretly matters."
+        "why": "When his brother toasts him as the richest man in town, you'll cry not from sadness but from recognition of every small, unglamorous life that secretly matters.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/It%27s_a_Wonderful_Life_%281946_poster%29.jpeg/250px-It%27s_a_Wonderful_Life_%281946_poster%29.jpeg"
     },
     {
         "title": "Bicycle Thieves",
         "year": 1948,
         "director": "Vittorio De Sica",
         "description": "A man needs a bicycle to keep his job, and when it's stolen, his entire world collapses in a single desperate afternoon in Rome. This isn't a thriller — it's a documentary of poverty, shot on real streets with a factory worker in the lead role.",
-        "why": "The final scene, where a shamed father and his son walk hand in hand into anonymity, is Italian neorealism's purest moment of grace."
+        "why": "The final scene, where a shamed father and his son walk hand in hand into anonymity, is Italian neorealism's purest moment of grace.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/20/Ladri3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "Sunset Boulevard",
         "year": 1950,
         "director": "Billy Wilder",
         "description": "A dead man narrates his own story from a swimming pool, and it only gets stranger and more savage from there. Gloria Swanson, a forgotten silent film star playing a forgotten silent film star, delivers a performance of such grand delusion it's hard to believe she wasn't actually living it.",
-        "why": "Hollywood has never produced a more vicious self-portrait, and it probably never will again."
+        "why": "Hollywood has never produced a more vicious self-portrait, and it probably never will again.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sunset_Boulevard_%281950_poster%29.jpg/250px-Sunset_Boulevard_%281950_poster%29.jpg"
     },
     {
         "title": "Singin' in the Rain",
         "year": 1952,
         "director": "Stanley Donen & Gene Kelly",
         "description": "Gene Kelly danced through that title number with a 103-degree fever, and you can't tell — that's the magic of this entire film. It's a comedy about Hollywood's panic when sound arrived that somehow became the most joyful movie musical ever made.",
-        "why": "Donald O'Connor's Make 'Em Laugh is physical comedy pushed to the point of glorious, sweaty insanity."
+        "why": "Donald O'Connor's Make 'Em Laugh is physical comedy pushed to the point of glorious, sweaty insanity.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Singin%27_in_the_Rain_%281952_poster%29.jpg/250px-Singin%27_in_the_Rain_%281952_poster%29.jpg"
     },
     {
         "title": "Tokyo Story",
         "year": 1953,
         "director": "Yasujiro Ozu",
         "description": "Ozu's camera never moves, and yet this film about aging parents visiting their busy, indifferent children in postwar Tokyo moves you more than any spectacle could. The parents smile and say they're fine, and you see your own family's quiet disappointments and unspoken debts reflected back.",
-        "why": "Setsuko Hara's final monologue — about life's inevitable disappointments and the guilt of being too busy to love properly — will make you call your mother."
+        "why": "Setsuko Hara's final monologue — about life's inevitable disappointments and the guilt of being too busy to love properly — will make you call your mother.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tokyo_monogatari_poster.jpg/250px-Tokyo_monogatari_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Rear Window",
         "year": 1954,
         "director": "Alfred Hitchcock",
         "description": "Hitchcock trapped Jimmy Stewart in a wheelchair with a broken leg and made voyeurs of us all, and we loved every guilty minute of it. Every window across the courtyard is a different movie, a different life, a different warning about the dangers and loneliness of love.",
-        "why": "Grace Kelly reaching into a murderer's apartment while you grip your armrest is suspense reduced to its purest, most elegant form."
+        "why": "Grace Kelly reaching into a murderer's apartment while you grip your armrest is suspense reduced to its purest, most elegant form.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rear_Window_film_poster.jpg/250px-Rear_Window_film_poster.jpg"
     },
     {
         "title": "Seven Samurai",
         "year": 1954,
         "director": "Akira Kurosawa",
         "description": "Kurosawa didn't just make an action film — he invented the template that Star Wars, Marvel, and every assembling the team movie still follows seventy years later. Seven warriors defend a village for nothing but rice, and each death feels like losing someone you've traveled with for years.",
-        "why": "The final shot, of samurai graves blowing in the wind while the farmers plant rice, reminds you that victory belongs to the living, not the heroes."
+        "why": "The final shot, of samurai graves blowing in the wind while the farmers plant rice, reminds you that victory belongs to the living, not the heroes.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Seven_Samurai_Poster.png/250px-Seven_Samurai_Poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Vertigo",
         "year": 1958,
         "director": "Alfred Hitchcock",
         "description": "Hitchcock's most personal and disturbing film was a critical and commercial failure that nearly ended his partnership with Jimmy Stewart — now it regularly tops greatest film of all time polls. The dolly zoom that makes staircases stretch into infinity will make your stomach drop every single time.",
-        "why": "It's a film about the sickness of trying to remake a person into your fantasy, and Hitchcock knew he was indicting himself."
+        "why": "It's a film about the sickness of trying to remake a person into your fantasy, and Hitchcock knew he was indicting himself.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Vertigomovie_restoration.jpg/250px-Vertigomovie_restoration.jpg"
     },
     {
         "title": "The 400 Blows",
         "year": 1959,
         "director": "Francois Truffaut",
         "description": "Truffaut's semi-autobiographical debut follows a boy who is misunderstood by everyone — his parents, his teachers, society itself — and the injustice of it will make your chest tighten. The famous final freeze-frame of Antoine on the beach, having run as far as he can, looking directly at the camera, is a question without an answer.",
-        "why": "It launched the French New Wave and proved that a child's small, ordinary pain could be as epic as any war film."
+        "why": "It launched the French New Wave and proved that a child's small, ordinary pain could be as epic as any war film.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Quatre_coups2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "Psycho",
         "year": 1960,
         "director": "Alfred Hitchcock",
         "description": "Hitchcock killed his biggest star in the first act, destroyed the bathroom as a safe space forever, and made you empathize with a murderer in one slow, devastating zoom. Bernard Herrmann's shrieking strings are the sound of your nervous system being dismantled one violin bow at a time.",
-        "why": "This was made as a low-budget experiment with his television crew, and it changed horror more profoundly than any film before or since."
+        "why": "This was made as a low-budget experiment with his television crew, and it changed horror more profoundly than any film before or since.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/250px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Lawrence of Arabia",
         "year": 1962,
         "director": "David Lean",
         "description": "David Lean proved you could make a four-hour desert epic with no women, no love story, and almost no action — and it would be completely riveting. Peter O'Toole's blue eyes and messianic madness fill a 70mm screen like nothing before or since.",
-        "why": "The match cut from a blown-out match to the desert sunrise is cinema's most elegant transition, and it announces that you're about to see something impossibly vast."
+        "why": "The match cut from a blown-out match to the desert sunrise is cinema's most elegant transition, and it announces that you're about to see something impossibly vast.",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lawrence_of_arabia_ver3_xxlg.jpg/250px-Lawrence_of_arabia_ver3_xxlg.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Dr. Strangelove",
         "year": 1964,
         "director": "Stanley Kubrick",
         "description": "Kubrick set out to make a serious Cold War thriller and realized the material was too absurd — so he made the funniest, bleakest comedy instead. Peter Sellers plays three characters, including a wheelchair-bound Nazi scientist who keeps accidentally giving the Hitler salute to an American president.",
-        "why": "Gentlemen, you can't fight in here — this is the War Room! is satire so sharp it draws blood fifty years later."
+        "why": "Gentlemen, you can't fight in here — this is the War Room! is satire so sharp it draws blood fifty years later.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/e/e6/Dr._Strangelove_poster.jpg"
     },
     {
         "title": "The Battle of Algiers",
         "year": 1966,
         "director": "Gillo Pontecorvo",
         "description": "This reconstruction of the Algerian War of Independence is so realistic it was screened by the Pentagon during the Iraq War and banned in France for years. The film doesn't take sides — it shows you the brutal logic of both colonial oppression and urban guerrilla warfare with terrifying clarity.",
-        "why": "The sequence where three women plant bombs in a civilian cafe will make you question everything you believe about resistance and terrorism."
+        "why": "The sequence where three women plant bombs in a civilian cafe will make you question everything you believe about resistance and terrorism.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/aa/The_Battle_of_Algiers_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "Le Samourai",
         "year": 1967,
         "director": "Jean-Pierre Melville",
         "description": "Alain Delon plays a hitman so minimalist and precise that he barely speaks, barely blinks, and still somehow breaks your heart. The opening quote — There is no greater solitude than that of the samurai — sets up a film about a man who lives by a code in a world that has forgotten codes.",
-        "why": "Every film about a lonely, stylish killer owes its sunglasses and its silences to this one."
+        "why": "Every film about a lonely, stylish killer owes its sunglasses and its silences to this one.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/28/LeSamourai.jpg"
     },
     {
         "title": "2001: A Space Odyssey",
         "year": 1968,
         "director": "Stanley Kubrick",
         "description": "Kubrick and Arthur C. Clarke set out to make the proverbial good science fiction movie and accidentally created a religious experience that spans from the dawn of man to the rebirth of consciousness. The HAL 9000 sequence — a computer begging for its life while being lobotomized — is more emotionally devastating than most films with human casts.",
-        "why": "The final twenty minutes will either leave you baffled or leave you convinced you've touched the face of something infinite."
+        "why": "The final twenty minutes will either leave you baffled or leave you convinced you've touched the face of something infinite.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/2001_A_Space_Odyssey_%281968%29.png/250px-2001_A_Space_Odyssey_%281968%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "The Godfather",
         "year": 1972,
         "director": "Francis Ford Coppola",
         "description": "Brando's cotton-stuffed cheeks and whispered wisdom created the template for every screen gangster since, but this isn't a crime film — it's a Shakespearean tragedy about a family rotting from within. The baptism montage, cutting between holy water and the systematic murder of every rival, is editing as moral indictment.",
-        "why": "Michael Corleone's arc from war hero to hollowed-out monster is the slowest, most devastating fall in American cinema."
+        "why": "Michael Corleone's arc from war hero to hollowed-out monster is the slowest, most devastating fall in American cinema.",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8ZBBUbkiDl8y-uQAt8OyUKjcUXnhMvEnMqGL7F_ebw&s=10"
     },
     {
         "title": "The Godfather Part II",
         "year": 1974,
         "director": "Francis Ford Coppola",
         "description": "The rare sequel that argues the first film was too optimistic — Michael's hollow victory as the new Don is intercut with young Vito's rise from immigrant to legend, and only one of these stories offers any hope. The final flashback, of the family waiting for a birthday dinner before everything fell apart, is a gut punch because you know exactly what every person at that table will lose.",
-        "why": "It's a film about how power doesn't corrupt — it just leaves you utterly alone, the richest and most miserable man in the room."
+        "why": "It's a film about how power doesn't corrupt — it just leaves you utterly alone, the richest and most miserable man in the room.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_.jpg"
     },
     {
         "title": "Taxi Driver",
         "year": 1976,
         "director": "Martin Scorsese",
         "description": "Scorsese and Schrader channeled their own breakdowns into Travis Bickle, a walking open wound cruising through a New York that looks like an open sewer. De Niro's You talkin' to me? was improvised in front of a mirror — a lonely man rehearsing a confrontation that exists only in his fractured mind.",
-        "why": "The ending is deliberately ambiguous: is he a hero, or is the fantasy continuing to spiral inside his head?"
+        "why": "The ending is deliberately ambiguous: is he a hero, or is the fantasy continuing to spiral inside his head?",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Taxi_Driver_%281976_film_poster%29.jpg/250px-Taxi_Driver_%281976_film_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Annie Hall",
         "year": 1977,
         "director": "Woody Allen",
         "description": "Woody Allen broke every romantic comedy rule and won four Oscars for his trouble — characters talk to camera, subtitles reveal inner thoughts, and love doesn't conquer anything. Diane Keaton's wardrobe became a fashion revolution, and her la-di-da laugh is the sound of charming chaos entering a neurotic's ordered world.",
-        "why": "It's a film that admits relationships are probably doomed but insists they're still the only thing worth having."
+        "why": "It's a film that admits relationships are probably doomed but insists they're still the only thing worth having.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/e/e6/Anniehallposter.jpg"
     },
     {
         "title": "Alien",
         "year": 1979,
         "director": "Ridley Scott",
         "description": "Ridley Scott turned a B-movie monster script into a haunted house film in space, where the truckers of the future are just trying to get paid and go home. The chestburster scene wasn't just shocking — the cast hadn't been told exactly what would happen, and Veronica Cartwright's spray of blood across her face was real horror.",
-        "why": "H.R. Giger's creature design is so psychosexually disturbing it bypasses your brain entirely and crawls straight into your nightmares."
+        "why": "H.R. Giger's creature design is so psychosexually disturbing it bypasses your brain entirely and crawls straight into your nightmares.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "Apocalypse Now",
         "year": 1979,
         "director": "Francis Ford Coppola",
         "description": "Coppola nearly died making this film — a heart attack, a typhoon destroying sets, a drunken Martin Sheen punching a mirror and bleeding real blood. The result isn't a war movie; it's a hallucinatory journey upriver into the heart of human darkness, set to Wagner and The Doors.",
-        "why": "I love the smell of napalm in the morning is horror disguised as machismo, and the film knows it better than the character does."
+        "why": "I love the smell of napalm in the morning is horror disguised as machismo, and the film knows it better than the character does.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/c2/Apocalypse_Now_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "Raging Bull",
         "year": 1980,
         "director": "Martin Scorsese",
         "description": "Scorsese thought this would be his last film, so he poured everything into it — the black-and-white photography, boxing sequences shot like opera, De Niro gaining 60 pounds to play the broken older LaMotta. Jake isn't redeemed in the end; he's just left alone in a dressing room mirror, reciting Brando to himself.",
-        "why": "It's the ugliest, most beautiful portrait of masculine insecurity and self-destruction ever committed to film."
+        "why": "It's the ugliest, most beautiful portrait of masculine insecurity and self-destruction ever committed to film.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/5/5f/Raging_Bull_poster.jpg"
     },
     {
         "title": "The Evil Dead",
         "year": 1981,
         "director": "Sam Raimi",
         "description": "Sam Raimi and Bruce Campbell made this in the woods with their college friends, a shoestring budget, and enough raw creativity to power a hundred horror films. The camera itself becomes a demon — racing through the forest, smashing through windows, attacking the characters from impossible angles.",
-        "why": "It's proof that you don't need money to make a masterpiece; you just need to be insane enough to try anything."
+        "why": "It's proof that you don't need money to make a masterpiece; you just need to be insane enough to try anything.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Evil_dead_ver1.jpg/250px-Evil_dead_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Blade Runner",
         "year": 1982,
         "director": "Ridley Scott",
         "description": "A box office failure that became the most influential sci-fi film since Metropolis, creating the visual language of every rainy, neon-drenched future you've ever seen. Rutger Hauer's dying monologue — I've seen things you people wouldn't believe — was partly improvised and is more human, more elegiac, than anything the actual humans say in the entire film.",
-        "why": "The question of whether Deckard himself is a replicant has fueled arguments for forty years, and that ambiguity is the point."
+        "why": "The question of whether Deckard himself is a replicant has fueled arguments for forty years, and that ambiguity is the point.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Blade_Runner_%281982_poster%29.png/250px-Blade_Runner_%281982_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Come and See",
         "year": 1985,
         "director": "Elem Klimov",
         "description": "This Soviet anti-war film doesn't show you combat — it shows you what war does to a face, specifically the face of a fourteen-year-old Belarusian boy. The lead actor was reportedly hypnotized to prevent psychological damage during filming, and watching the film, you'll understand why it was necessary.",
-        "why": "It makes every other war film feel like a polite lie told to make violence palatable."
+        "why": "It makes every other war film feel like a polite lie told to make violence palatable.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Come_and_See_%28poster%29.jpg/250px-Come_and_See_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Cinema Paradiso",
         "year": 1988,
         "director": "Giuseppe Tornatore",
         "description": "A successful filmmaker returns to his Sicilian village for the funeral of the old projectionist who taught him to love movies, and his childhood comes flooding back. The final reel — a montage of all the kissing scenes the local priest censored over the years, spliced together as a parting gift — is a love letter to cinema itself.",
-        "why": "Morricone's score will make you weep for a childhood and a town that aren't even yours."
+        "why": "Morricone's score will make you weep for a childhood and a town that aren't even yours.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/CinemaParadiso.jpg/250px-CinemaParadiso.jpg"
     },
     {
         "title": "Goodfellas",
         "year": 1990,
         "director": "Martin Scorsese",
         "description": "Scorsese makes the mafia seductive for exactly an hour — the money, the suits, the back-door entrances to nightclubs — and then shows you the cost in cocaine paranoia and greasy betrayal. Ray Liotta's narration shifts so gradually from excitement to exhaustion that you don't notice until you're as trapped as he is.",
-        "why": "As far back as I can remember, I always wanted to be a gangster — and by the end, you understand why that's a tragedy, not a fantasy."
+        "why": "As far back as I can remember, I always wanted to be a gangster — and by the end, you understand why that's a tragedy, not a fantasy.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg"
     },
     {
         "title": "Schindler's List",
         "year": 1993,
         "director": "Steven Spielberg",
         "description": "Spielberg waited until he was ready to make this, and the result is a Holocaust film that feels less like a movie than a document of the soul. The girl in the red coat — the only color in three hours of black-and-white — is a gut punch of visual storytelling you'll never forget.",
-        "why": "Liam Neeson's breakdown at the end, I could have saved more, is the sound of a lifetime of guilt compressed into one unbearable moment."
+        "why": "Liam Neeson's breakdown at the end, I could have saved more, is the sound of a lifetime of guilt compressed into one unbearable moment.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "Pulp Fiction",
         "year": 1994,
         "director": "Quentin Tarantino",
         "description": "A film so influential it changed what independent cinema could be, what a screenplay could sound like, and how a soundtrack could function in a single adrenaline shot. Samuel L. Jackson's Jules reciting Ezekiel before executing a man is terrifying and biblical and somehow hilarious, all at once.",
-        "why": "The Royale with Cheese conversation — two hitmen debating European fast food before killing people — is a masterclass in making nothing sound like everything."
+        "why": "The Royale with Cheese conversation — two hitmen debating European fast food before killing people — is a masterclass in making nothing sound like everything.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Pulp_Fiction_%281994%29_poster.jpg/250px-Pulp_Fiction_%281994%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Hoop Dreams",
         "year": 1994,
         "director": "Steve James",
         "description": "This documentary follows two Black teenagers in Chicago who dream of the NBA, filmed over five years that capture every hope, setback, and systemic barrier in their path. It's not really about basketball — it's about America, class, race, and the lie that talent alone is enough to escape.",
-        "why": "By the end, you'll feel like you've lived these boys' lives with them, and you'll never watch sports the same way again."
+        "why": "By the end, you'll feel like you've lived these boys' lives with them, and you'll never watch sports the same way again.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Hoop_dreamsposter.jpg/250px-Hoop_dreamsposter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "The Matrix",
         "year": 1999,
         "director": "The Wachowskis",
         "description": "Bullet time, red pill versus blue pill, there is no spoon — this film embedded itself so deeply in global culture you can't escape its influence even if you've never seen it. The Wachowskis made a philosophy lecture into an action movie, and the action still outclasses most films made two decades later.",
-        "why": "The revelation that your entire life is a battery for machines remains the most paranoid and disturbingly plausible dystopia ever conceived."
+        "why": "The revelation that your entire life is a battery for machines remains the most paranoid and disturbingly plausible dystopia ever conceived.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/The_Matrix.png/250px-The_Matrix.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "In the Mood for Love",
         "year": 2000,
         "director": "Wong Kar-wai",
         "description": "Two neighbors in 1960s Hong Kong suspect their spouses are having an affair with each other, and instead of revenge they fall into a love so restrained it physically aches. They never kiss, never consummate, and yet the longing in every slow-motion glance is more erotic than any sex scene could ever be.",
-        "why": "Maggie Cheung's qipao dresses, changing with every scene, are the only clue to the passage of time and the depth of unspoken emotion."
+        "why": "Maggie Cheung's qipao dresses, changing with every scene, are the only clue to the passage of time and the depth of unspoken emotion.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/In_the_Mood_for_Love_movie.jpg/250px-In_the_Mood_for_Love_movie.jpg"
     },
     {
         "title": "Spirited Away",
         "year": 2001,
         "director": "Hayao Miyazaki",
         "description": "A little girl's parents turn into pigs, and she must work in a bathhouse for spirits to save them — Miyazaki's Alice in Wonderland, but stranger and sadder. The faceless spirit No-Face, consuming everything and everyone in desperate loneliness, is a devastating metaphor for greed and the hunger to be loved.",
-        "why": "It's the only non-English animated film to win the Oscar, and every frame is a painting you'd hang on your wall."
+        "why": "It's the only non-English animated film to win the Oscar, and every frame is a painting you'd hang on your wall.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/250px-Spirited_Away_Japanese_poster.png"
     },
     {
         "title": "Pan's Labyrinth",
         "year": 2006,
         "director": "Guillermo del Toro",
         "description": "Del Toro interweaves fascist Spain with a dark fairy-tale underworld, and the real monster isn't the Pale Man with eyes in his hands — it's the brutal stepfather. The fantasy isn't an escape for Ofelia; it's a test of whether she has the courage to defy real evil, not imaginary ones.",
-        "why": "The final shot will split you between hope and heartbreak, and you'll spend the rest of your life deciding which answer is true."
+        "why": "The final shot will split you between hope and heartbreak, and you'll spend the rest of your life deciding which answer is true.",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCrsphkyYeTIyiMifu7t-siv6T6Eggqv1WJKzhqhezQ&s=10"
     },
     {
         "title": "No Country for Old Men",
         "year": 2007,
         "director": "Joel & Ethan Coen",
         "description": "Javier Bardem's Anton Chigurh is the most chilling villain of this century — a force of pure fate with a captive bolt pistol and a coin to flip. The Coen brothers strip Cormac McCarthy's novel to its bones, and the silences are louder and more terrifying than any dialogue.",
-        "why": "The ending refuses to provide closure, because the universe doesn't owe you closure, and that's the most honest thing a thriller has ever admitted."
+        "why": "The ending refuses to provide closure, because the universe doesn't owe you closure, and that's the most honest thing a thriller has ever admitted.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "There Will Be Blood",
         "year": 2007,
         "director": "Paul Thomas Anderson",
         "description": "Daniel Day-Lewis's Daniel Plainview is a monster of ambition who hates people so purely and completely it becomes a kind of religious devotion. I drink your milkshake — a line that should be ridiculous — becomes the most terrifying threat imaginable when Day-Lewis delivers it.",
-        "why": "The final bowling alley confrontation is the definitive portrait of American capitalism devouring itself and everyone in reach."
+        "why": "The final bowling alley confrontation is the definitive portrait of American capitalism devouring itself and everyone in reach.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/d/da/There_Will_Be_Blood_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "The Tree of Life",
         "year": 2011,
         "director": "Terrence Malick",
         "description": "Malick made a film that spans from the birth of the cosmos to a 1950s Texas boyhood, and somehow the dinosaurs showing mercy to a wounded enemy connects to Brad Pitt's stern father. It's less a movie than a prayer — a whispered question about grace, suffering, and whether the universe cares that we exist at all.",
-        "why": "You'll either find it transcendent or maddening, and the film respects both reactions equally."
+        "why": "You'll either find it transcendent or maddening, and the film respects both reactions equally.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Thetreeoflifeposter.jpg/250px-Thetreeoflifeposter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "12 Years a Slave",
         "year": 2013,
         "director": "Steve McQueen",
         "description": "Steve McQueen forces you to sit with the unbearable — a long, unbroken take of Solomon hanging from a tree, barely touching the ground, while life goes on casually behind him. This isn't a history lesson; it's a blunt instrument designed to make you feel the weight of an institution America still hasn't fully reckoned with.",
-        "why": "Lupita Nyong'o's Patsey is the film's shattered heart, and her whipping scene is almost unwatchable in its brutality."
+        "why": "Lupita Nyong'o's Patsey is the film's shattered heart, and her whipping scene is almost unwatchable in its brutality.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/5/5c/12_Years_a_Slave_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
     },
     {
         "title": "Under the Skin",
         "year": 2013,
         "director": "Jonathan Glazer",
         "description": "Scarlett Johansson plays an alien who seduces men in Glasgow and harvests them in a liquid black void, and much of the film was shot with hidden cameras using real, unaware pedestrians. The men's interior emptiness — suspended in darkness, reaching for each other — is body horror transformed into existential metaphor.",
-        "why": "Her gradual, wordless discovery of what it means to be human will haunt you for weeks after the credits roll."
+        "why": "Her gradual, wordless discovery of what it means to be human will haunt you for weeks after the credits roll.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Under_the_Skin_poster.png/250px-Under_the_Skin_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
         "title": "Mad Max: Fury Road",
         "year": 2015,
         "director": "George Miller",
         "description": "George Miller, at 70 years old, returned to his post-apocalyptic wasteland and made a two-hour chase scene that is also a feminist manifesto about liberating a warlord's captive wives. The practical stunts are so genuinely insane — real cars flipping end over end, real polecats swinging through the air — that CGI feels like cheating.",
-        "why": "Charlize Theron's Furiosa is the action hero the 21st century desperately needed, and the Doof Warrior with his flaming guitar is cinema's most perfectly absurd detail."
+        "why": "Charlize Theron's Furiosa is the action hero the 21st century desperately needed, and the Doof Warrior with his flaming guitar is cinema's most perfectly absurd detail.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Mad_Max_Fury_Road.jpg/250px-Mad_Max_Fury_Road.jpg"
     },
     {
         "title": "Parasite",
         "year": 2019,
         "director": "Bong Joon-ho",
         "description": "Bong Joon-ho's film about a poor family infiltrating a wealthy household won Best Picture and proved definitively that subtitles were never the barrier Hollywood claimed they were. The shift from dark comedy to thriller to tragedy is so seamless you won't notice it happening until you're already drowning.",
-        "why": "The smell of poverty — the one thing that can't be faked or washed away — becomes the film's most devastating and inescapable weapon."
+        "why": "The smell of poverty — the one thing that can't be faked or washed away — becomes the film's most devastating and inescapable weapon.",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Parasite_%282019_film%29.png/250px-Parasite_%282019_film%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     }
 ]

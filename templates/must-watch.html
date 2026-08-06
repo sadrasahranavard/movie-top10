@@ -3,39 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>50 Films You Must Watch Before You Die</title>
+    <title>50 Films You Must Watch</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>50 Films You Must Watch Before You Die</h1>
+    <div class="container">
+        <header class="header">
+            <h1>50 Films You Must Watch</h1>
+            <p class="subtitle">Before You Die</p>
+        </header>
 
-    <div class="intro">
-        <p>I've watched many films across years of obsessive viewing. What follows isn't a list of the "best" films in any objective sense — objectivity in art is a comforting fiction we tell ourselves. These are the 50 films that changed something in me. Some are technically revolutionary, some are morally complex, and some are simply so beautiful that they reminded me why I fell in love with cinema in the first place.</p>
-        <p>They're listed chronologically so you can watch the art form grow up in real time — from silent experiments to digital dreams, from propaganda to poetry, from entertainment to truth. Each entry includes what the film is about, but more importantly, why they worth hours of your life.</p>
-        <p>I've excluded nothing based on difficulty. Some of these films are hard to watch. Some will make you angry. Some will bore you on first viewing and haunt you on the third. That's intentional. </p>
-    </div>
+        <nav class="nav-links">
+            <a href="{{ url_for('index') }}">Home</a>
+            <a href="{{ url_for('add') }}">Add Movie</a>
+            <a href="{{ url_for('select') }}">Manage</a>
+            <a href="{{ url_for('must_watch') }}" class="special">✦ 50 Must-Watch</a>
+        </nav>
 
-    <div class="film-list">
-        {% for film in films %}
-        <div class="film-card">
-            <div class="film-year">{{ film.year }}</div>
-            <div class="film-content">
-                <h2>{{ film.title }} <span class="director">— {{ film.director }}</span></h2>
-                <p class="film-desc">{{ film.description }}</p>
-                <p class="film-why"><strong>Why I chose it:</strong> {{ film.why }}</p>
-            </div>
+        <div class="intro">
+            <p>I've watched many films across years of obsessive viewing. What follows isn't a list of the "best" films in any objective sense — objectivity in art is a comforting fiction we tell ourselves. These are the 50 films that changed something in me. Some are technically revolutionary, some are morally complex, and some are simply so beautiful that they reminded me why I fell in love with cinema in the first place.</p>
+            <p>They're listed chronologically so you can watch the art form grow up in real time — from silent experiments to digital dreams, from propaganda to poetry, from entertainment to something approaching truth. Each entry includes what the film is about, but more importantly, why it matters. Why it has survived. Why you should give it two hours of your life.</p>
+            <p>I've excluded nothing based on difficulty. Some of these films are hard to watch. Some will make you angry. Some will bore you on first viewing and haunt you on the third. That's intentional. The films that matter most are rarely the ones that go down easy.</p>
         </div>
-        {% endfor %}
-    </div>
 
-    <div class="conclusion">
-        <p>Looking back over these 50 films, patterns emerge that I didn't plan but can't deny. The films that endure aren't the ones with the biggest budgets or the most famous stars — they're the ones that told the truth about something, even when that truth was uncomfortable. They're films about life more often than dreams.</p>
-        <p>Cinema began as a magic trick — moving photographs that astonished audiences who had never seen anything like it. Over a century later, it's still a magic trick. The difference is that now we understand the trick isn't the technology. The trick is empathy. A camera, a performance, and a story can make you feel a life never lived before.</p>
-        <p>If you watch these 50 films — really watch them, not as background noise but as conversations with the people who made them — you won't just understand cinema better. You'll understand people better. And in the end, that's the only reason any of this matters.</p>
-    </div>
+        <div class="film-list">
+            {% for film in films %}
+            <div class="film-card">
+                <div class="film-year">{{ film.year }}</div>
+                {% if film.poster %}
+                <img src="{{ film.poster }}" alt="{{ film.title }}" class="film-poster" onerror="this.style.display='none'">
+                {% endif %}
+                <div class="film-content">
+                    <h2>{{ film.title }} <span class="director">— {{ film.director }}</span></h2>
+                    <p class="film-desc">{{ film.description }}</p>
+                    <p class="film-why"><strong>Why I chose it:</strong> {{ film.why }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
 
-    <div class="nav-links">
-        <a href="{{ url_for('index') }}">Back to My Top 10</a>
+        <div class="conclusion">
+            <p>Looking back over these 50 films, patterns emerge that I didn't plan but can't deny. The films that endure aren't the ones with the biggest budgets or the most famous stars — they're the ones that told the truth about something, even when that truth was uncomfortable. They're films about failure more often than success. About the small gesture rather than the grand speech. About people who don't win, but keep going anyway.</p>
+            <p>Cinema began as a magic trick — moving photographs that astonished audiences who had never seen anything like it. Over a century later, it's still a magic trick. The difference is that now we understand the trick isn't the technology. The trick is empathy. A camera, a performance, and a story can make you feel what it's like to be someone else, somewhere else, in a life nothing like your own.</p>
+            <p>If you watch these 50 films — really watch them, not as background noise but as conversations with the people who made them — you won't just understand cinema better. You'll understand people better. And in the end, that's the only reason any of this matters.</p>
+        </div>
+
+        <footer class="footer">
+            <p>Movie Top 10 &copy; 2026</p>
+        </footer>
     </div>
 </body>
 </html>

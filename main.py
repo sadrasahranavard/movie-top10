@@ -2,9 +2,12 @@ from flask import Flask, render_template, request, redirect, url_for, flash
 import sqlite3
 import json
 import os
+from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
 app.secret_key = 'movie-top10-secret-key'
+app.config['UPLOAD_FOLDER'] = 'static/posters'
+os.makedirs('static/posters', exist_ok=True)
 
 
 def get_db():
@@ -47,6 +50,13 @@ def add():
         review = request.form.get('review', '').strip()
         poster_url = request.form.get('poster_url', '').strip()
 
+        file = request.files.get('poster_file')
+        if file and file.filename:
+            filename = secure_filename(file.filename)
+            filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+            file.save(filepath)
+            poster_url = '/' + filepath.replace('\\', '/')
+
         if not title:
             flash('Title is required.', 'error')
             return render_template('add.html')
@@ -83,6 +93,13 @@ def edit(id):
         rating = request.form.get('rating', type=float)
         review = request.form.get('review', '').strip()
         poster_url = request.form.get('poster_url', '').strip()
+
+        file = request.files.get('poster_file')
+        if file and file.filename:
+            filename = secure_filename(file.filename)
+            filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+            file.save(filepath)
+            poster_url = '/' + filepath.replace('\\', '/')
 
         if rating is None or not (0 <= rating <= 10):
             flash('Rating must be between 0 and 10.', 'error')

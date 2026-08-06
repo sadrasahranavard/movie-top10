@@ -17,7 +17,7 @@
             <a href="{{ url_for('index') }}">Home</a>
             <a href="{{ url_for('add') }}">Add Movie</a>
             <a href="{{ url_for('select') }}">Manage</a>
-            <a href="{{ url_for('must_watch') }}">50 Must-Watch</a>
+            <a href="{{ url_for('must_watch') }}" class="special">✦ 50 Must-Watch</a>
         </nav>
 
         {% with messages = get_flashed_messages(with_categories=true) %}
