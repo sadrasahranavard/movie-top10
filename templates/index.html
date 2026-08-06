@@ -7,31 +7,62 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>My Top 10 Movies</h1>
+    <div class="container">
+        <header class="header">
+            <h1>My Top 10 Movies</h1>
+            <p class="subtitle">A personal collection of cinematic masterpieces</p>
+        </header>
 
-    {% if movies %}
-    <div class="movie-list">
-        {% for movie in movies %}
-        <div class="movie-card">
-            <div class="rank">#{{ loop.index }}</div>
-            <div class="movie-info">
-                <h2>{{ movie.title }} <span class="year">({{ movie.year }})</span></h2>
-                <div class="rating">Rating: {{ movie.rating }}/10</div>
-                {% if movie.review %}
-                <p class="review">{{ movie.review }}</p>
-                {% endif %}
-            </div>
+        <nav class="nav-links">
+            <a href="{{ url_for('index') }}">Home</a>
+            <a href="{{ url_for('add') }}">Add Movie</a>
+            <a href="{{ url_for('select') }}">Manage</a>
+            <a href="{{ url_for('must_watch') }}">50 Must-Watch</a>
+        </nav>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        <div class="flash-messages">
+            {% for category, message in messages %}
+            <div class="flash {{ category }}">{{ message }}</div>
+            {% endfor %}
         </div>
-        {% endfor %}
-    </div>
-    {% else %}
-    <p>No movies added yet. <a href="{{ url_for('add') }}">Add your first movie</a></p>
-    {% endif %}
+        {% endif %}
+        {% endwith %}
 
-    <div class="nav-links">
-        <a href="{{ url_for('add') }}">Add Movie</a>
-        <a href="{{ url_for('select') }}">Manage Movies</a>
-        <a href="{{ url_for('must_watch') }}">50 Must-Watch Films</a>
+        {% if movies %}
+        <div class="movie-list">
+            {% for movie in movies %}
+            <div class="movie-card">
+                <div class="rank">#{{ loop.index }}</div>
+                {% if movie.poster_url %}
+                <img src="{{ movie.poster_url }}" alt="{{ movie.title }}" class="movie-poster" onerror="this.style.display='none'">
+                {% else %}
+                <div class="movie-poster-placeholder">🎬</div>
+                {% endif %}
+                <div class="movie-info">
+                    <h2>{{ movie.title }} <span class="year">({{ movie.year }})</span></h2>
+                    <div class="rating">
+                        <span class="stars">{{ "★" * (movie.rating|int) }}{{ "☆" * (10 - (movie.rating|int)) }}</span>
+                        <span class="rating-number">{{ movie.rating }}/10</span>
+                    </div>
+                    {% if movie.review %}
+                    <p class="review">{{ movie.review }}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="empty-state">
+            <p>No movies added yet.</p>
+            <a href="{{ url_for('add') }}">Add your first movie →</a>
+        </div>
+        {% endif %}
+
+        <footer class="footer">
+            <p>Movie Top 10 &copy; 2026</p>
+        </footer>
     </div>
 </body>
 </html>
