@@ -1,4 +1,3 @@
-```markdown
 # Movie Top 10
 
 A personal movie ranking website with a curated list of 50 must-watch films. Built with Flask and SQLite.
@@ -95,5 +94,3 @@ movie-top10/
 - **Database:** SQLite
 - **Frontend:** HTML, CSS (dark cinematic theme)
 - **Fonts:** Playfair Display, Inter (Google Fonts)
-
----
